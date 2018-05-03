@@ -36,9 +36,20 @@ export default {
 </script>
 
 <style>
+*{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  background-color: #fff;
+}
 .page{
   padding-top: 40px;
   padding-bottom: 50px;
+}
+
+.mui-grid-view.mui-grid-9{
+  background-color: #fff;
 }
 
 </style>
