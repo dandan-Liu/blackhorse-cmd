@@ -1,5 +1,7 @@
 <template>
-  <div>新闻详情页</div>
+  <div class="page">
+    <div></div>
+  </div>
 </template>
 
 <script>
